@@ -4,7 +4,7 @@
 ### OpenIM
 A OpenIM flutter demo, only support android and ios.
 
-![image](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo/blob/master/gif/QQ20211207-101110.gif)
+![image](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo/blob/master/gif/1.gif)
 
 
 ### 官方demo使用
@@ -15,7 +15,7 @@ A OpenIM flutter demo, only support android and ios.
 
 ##### 2. 替换服务器地址为自己搭建的服务器地址，默认地址为官方服务器地址
 
-![image](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo/blob/master/gif/QQ20211216-141624.gif)
+![image](https://github.com/OpenIMSDK/Open-IM-Flutter-Demo/blob/master/gif/2.gif)
 
 
 ### 源代码使用
